@@ -1,0 +1,160 @@
+{
+  "assetsByChunkName": {
+    "path---genetic-algorithms-uts": [
+      "path---genetic-algorithms-uts-7f44fb0fc17e191f97f6.js",
+      "path---genetic-algorithms-uts-7f44fb0fc17e191f97f6.js.map"
+    ],
+    "path---pemrograman-1": [
+      "path---pemrograman-1-3c8fb82ca8cad560b282.js",
+      "path---pemrograman-1-3c8fb82ca8cad560b282.js.map"
+    ],
+    "path---fuzzy-logic": [
+      "path---fuzzy-logic-d0caa4a60f817c538891.js",
+      "path---fuzzy-logic-d0caa4a60f817c538891.js.map"
+    ],
+    "path---fuzzy-logic-notes": [
+      "path---fuzzy-logic-notes-2956ef1b3617e3871b1e.js",
+      "path---fuzzy-logic-notes-2956ef1b3617e3871b1e.js.map"
+    ],
+    "path---pemrograman-1-uts": [
+      "path---pemrograman-1-uts-3cc1d9698f1fb057f679.js",
+      "path---pemrograman-1-uts-3cc1d9698f1fb057f679.js.map"
+    ],
+    "path---data-mining-uas": [
+      "path---data-mining-uas-3c384b7dbbd1d3af7fc7.js",
+      "path---data-mining-uas-3c384b7dbbd1d3af7fc7.js.map"
+    ],
+    "path---": [
+      "path----e771e25e7e111214348e.js",
+      "path----e771e25e7e111214348e.js.map"
+    ],
+    "path---data-mining-notes": [
+      "path---data-mining-notes-8ff72419eeb6142c4437.js",
+      "path---data-mining-notes-8ff72419eeb6142c4437.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-e562a70466e2343f8803.js",
+      "component---src-layouts-index-jsx-e562a70466e2343f8803.js.map"
+    ],
+    "path---fuzzy-logic-uas": [
+      "path---fuzzy-logic-uas-ec5ed85ca746b4ce3b52.js",
+      "path---fuzzy-logic-uas-ec5ed85ca746b4ce3b52.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---misc-q-a": [
+      "path---misc-q-a-72504244c4ecc70d0b11.js",
+      "path---misc-q-a-72504244c4ecc70d0b11.js.map"
+    ],
+    "path---data-mining": [
+      "path---data-mining-b29b7c2210fdf586dee9.js",
+      "path---data-mining-b29b7c2210fdf586dee9.js.map"
+    ],
+    "path---guides": [
+      "path---guides-5a60110cc0ea498a046c.js",
+      "path---guides-5a60110cc0ea498a046c.js.map"
+    ],
+    "path---genetic-algorithms-uas": [
+      "path---genetic-algorithms-uas-b9cd053a8046f494004c.js",
+      "path---genetic-algorithms-uas-b9cd053a8046f494004c.js.map"
+    ],
+    "path---index": [
+      "path---index-c61caf7bf43f08b6b3fe.js",
+      "path---index-c61caf7bf43f08b6b3fe.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-4232ffb18d74e42e37af.js",
+      "component---src-pages-about-jsx-4232ffb18d74e42e37af.js.map"
+    ],
+    "path---data-mining-uts": [
+      "path---data-mining-uts-d487b4c43cf095915c95.js",
+      "path---data-mining-uts-d487b4c43cf095915c95.js.map"
+    ],
+    "path---misc": [
+      "path---misc-162e1576e92eb1acc7cc.js",
+      "path---misc-162e1576e92eb1acc7cc.js.map"
+    ],
+    "commons": [
+      "commons-dc235cdd1197e13f99af.js",
+      "build-js-styles.css",
+      "commons-dc235cdd1197e13f99af.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---bahasa-dan-otomata": [
+      "path---bahasa-dan-otomata-6e55a44722506a460a46.js",
+      "path---bahasa-dan-otomata-6e55a44722506a460a46.js.map"
+    ],
+    "path---tips-trick": [
+      "path---tips-trick-6fa94cb5492931d7dc34.js",
+      "path---tips-trick-6fa94cb5492931d7dc34.js.map"
+    ],
+    "path---fuzzy-logic-notes-operator-fuzzy": [
+      "path---fuzzy-logic-notes-operator-fuzzy-81dde8604c0ede045a70.js",
+      "path---fuzzy-logic-notes-operator-fuzzy-81dde8604c0ede045a70.js.map"
+    ],
+    "path---pemrograman-1-uas": [
+      "path---pemrograman-1-uas-73867bdf4da5cf1d70d6.js",
+      "path---pemrograman-1-uas-73867bdf4da5cf1d70d6.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+    ],
+    "path---machine-learning-notes-single-layer-perceptron": [
+      "path---machine-learning-notes-single-layer-perceptron-c53859dbd91b5ee983b1.js",
+      "path---machine-learning-notes-single-layer-perceptron-c53859dbd91b5ee983b1.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-a7c73cb576a0f0d05a40.js",
+      "component---src-templates-post-jsx-a7c73cb576a0f0d05a40.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-5ca934fe360d697f2977.js",
+      "component---src-pages-index-jsx-5ca934fe360d697f2977.js.map"
+    ],
+    "path---machine-learning-notes": [
+      "path---machine-learning-notes-edba8d9f26b841eda8cb.js",
+      "path---machine-learning-notes-edba8d9f26b841eda8cb.js.map"
+    ],
+    "path---genetic-algorithms": [
+      "path---genetic-algorithms-d8dd312a8a28cce890ea.js",
+      "path---genetic-algorithms-d8dd312a8a28cce890ea.js.map"
+    ],
+    "path---tugas-akhir": [
+      "path---tugas-akhir-09693a129519b3ff2dd0.js",
+      "path---tugas-akhir-09693a129519b3ff2dd0.js.map"
+    ],
+    "app": [
+      "app-11e3248e76597edaf2a3.js",
+      "build-js-styles.css",
+      "app-11e3248e76597edaf2a3.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---machine-learning": [
+      "path---machine-learning-67d2657aeabc99922cdc.js",
+      "path---machine-learning-67d2657aeabc99922cdc.js.map"
+    ],
+    "path---pemrograman-1-notes": [
+      "path---pemrograman-1-notes-031992a34b8910903826.js",
+      "path---pemrograman-1-notes-031992a34b8910903826.js.map"
+    ],
+    "path---machine-learning-uts": [
+      "path---machine-learning-uts-dddd448835e29b984ed1.js",
+      "path---machine-learning-uts-dddd448835e29b984ed1.js.map"
+    ],
+    "path---calculus-1": [
+      "path---calculus-1-cd529de123470b03eac3.js",
+      "path---calculus-1-cd529de123470b03eac3.js.map"
+    ],
+    "path---fuzzy-logic-uts": [
+      "path---fuzzy-logic-uts-0b2e936515f91493c3e5.js",
+      "path---fuzzy-logic-uts-0b2e936515f91493c3e5.js.map"
+    ],
+    "path---about": [
+      "path---about-1db04e5021b40904aca6.js",
+      "path---about-1db04e5021b40904aca6.js.map"
+    ]
+  }
+}
